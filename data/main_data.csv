@@ -1,0 +1,320 @@
+,Year,Industry,Variable_name,Amount
+0,2015,Administrative and Support Services,Sales of goods and services,8760
+1,2019,Administrative and Support Services,Sales of goods and services,12588
+2,2014,Administrative and Support Services,Sales of goods and services,8140
+3,2013,Administrative and Support Services,Sales of goods and services,8436
+4,2018,Administrative and Support Services,Sales of goods and services,11682
+5,2016,Administrative and Support Services,Sales of goods and services,9679
+6,2017,Administrative and Support Services,Sales of goods and services,10892
+7,2018,"Advertising, Market Research and Management Services",Sales of goods and services,10105
+8,2016,"Advertising, Market Research and Management Services",Sales of goods and services,8576
+9,2013,"Advertising, Market Research and Management Services",Sales of goods and services,7718
+10,2015,"Advertising, Market Research and Management Services",Sales of goods and services,8326
+11,2017,"Advertising, Market Research and Management Services",Sales of goods and services,9605
+12,2019,"Advertising, Market Research and Management Services",Sales of goods and services,11227
+13,2014,"Advertising, Market Research and Management Services",Sales of goods and services,8054
+14,2016,"Agriculture, Forestry and Fishing",Sales of goods and services,33042
+15,2015,"Agriculture, Forestry and Fishing",Sales of goods and services,35360
+16,2014,"Agriculture, Forestry and Fishing",Sales of goods and services,36587
+17,2018,"Agriculture, Forestry and Fishing",Sales of goods and services,41210
+18,2017,"Agriculture, Forestry and Fishing",Sales of goods and services,37290
+19,2013,"Agriculture, Forestry and Fishing",Sales of goods and services,32201
+20,2019,"Agriculture, Forestry and Fishing",Sales of goods and services,43216
+21,2013,"Agriculture, Forestry and Fishing Support Services and Hunting",Sales of goods and services,2894
+22,2016,"Agriculture, Forestry and Fishing Support Services and Hunting",Sales of goods and services,3520
+23,2018,"Agriculture, Forestry and Fishing Support Services and Hunting",Sales of goods and services,4270
+24,2014,"Agriculture, Forestry and Fishing Support Services and Hunting",Sales of goods and services,3303
+25,2017,"Agriculture, Forestry and Fishing Support Services and Hunting",Sales of goods and services,3787
+26,2019,"Agriculture, Forestry and Fishing Support Services and Hunting",Sales of goods and services,4635
+27,2015,"Agriculture, Forestry and Fishing Support Services and Hunting",Sales of goods and services,3469
+28,2019,Auxiliary Finance and Insurance Services,Sales of goods and services,6200
+29,2016,Auxiliary Finance and Insurance Services,Sales of goods and services,5001
+30,2014,Auxiliary Finance and Insurance Services,Sales of goods and services,4127
+31,2017,Auxiliary Finance and Insurance Services,Sales of goods and services,5581
+32,2018,Auxiliary Finance and Insurance Services,Sales of goods and services,5686
+33,2013,Auxiliary Finance and Insurance Services,Sales of goods and services,3888
+34,2015,Auxiliary Finance and Insurance Services,Sales of goods and services,4567
+35,2015,Banking and Financing,Sales of goods and services,3041
+36,2019,Banking and Financing,Sales of goods and services,3076
+37,2013,Banking and Financing,Sales of goods and services,2922
+38,2016,Banking and Financing,Sales of goods and services,2890
+39,2018,Banking and Financing,Sales of goods and services,3011
+40,2017,Banking and Financing,Sales of goods and services,2983
+41,2014,Banking and Financing,Sales of goods and services,2915
+42,2016,Basic Chemical and Basic Polymer Manufacturing,Sales of goods and services,1725
+43,2014,Basic Chemical and Basic Polymer Manufacturing,Sales of goods and services,1514
+44,2017,Basic Chemical and Basic Polymer Manufacturing,Sales of goods and services,1783
+45,2015,Basic Chemical and Basic Polymer Manufacturing,Sales of goods and services,1736
+46,2016,"Building Cleaning, Pest Control and Other Support Services",Sales of goods and services,3231
+47,2017,"Building Cleaning, Pest Control and Other Support Services",Sales of goods and services,3642
+48,2019,"Building Cleaning, Pest Control and Other Support Services",Sales of goods and services,4211
+49,2013,"Building Cleaning, Pest Control and Other Support Services",Sales of goods and services,2532
+50,2018,"Building Cleaning, Pest Control and Other Support Services",Sales of goods and services,3797
+51,2015,"Building Cleaning, Pest Control and Other Support Services",Sales of goods and services,2880
+52,2014,"Building Cleaning, Pest Control and Other Support Services",Sales of goods and services,2627
+53,2015,Building Construction,Sales of goods and services,17312
+54,2016,Building Construction,Sales of goods and services,19399
+55,2019,Building Construction,Sales of goods and services,26796
+56,2018,Building Construction,Sales of goods and services,24470
+57,2013,Building Construction,Sales of goods and services,12422
+58,2014,Building Construction,Sales of goods and services,14880
+59,2017,Building Construction,Sales of goods and services,22628
+60,2018,Computer System Design and Related Services,Sales of goods and services,8855
+61,2015,Computer System Design and Related Services,Sales of goods and services,6882
+62,2016,Computer System Design and Related Services,Sales of goods and services,7369
+63,2013,Computer System Design and Related Services,Sales of goods and services,6072
+64,2017,Computer System Design and Related Services,Sales of goods and services,8040
+65,2014,Computer System Design and Related Services,Sales of goods and services,6591
+66,2019,Computer System Design and Related Services,Sales of goods and services,9903
+74,2015,Construction Services,Sales of goods and services,17249
+75,2017,Construction Services,Sales of goods and services,22191
+76,2016,Construction Services,Sales of goods and services,19276
+77,2013,Construction Services,Sales of goods and services,14418
+78,2014,Construction Services,Sales of goods and services,16323
+79,2019,Construction Services,Sales of goods and services,27364
+80,2018,Construction Services,Sales of goods and services,24752
+81,2016,Electricity and Gas Supply,Sales of goods and services,14958
+82,2013,Electricity and Gas Supply,Sales of goods and services,15852
+83,2014,Electricity and Gas Supply,Sales of goods and services,14735
+84,2017,Electricity and Gas Supply,Sales of goods and services,14826
+85,2018,Electricity and Gas Supply,Sales of goods and services,16334
+86,2019,Electricity and Gas Supply,Sales of goods and services,18000
+87,2016,"Electricity, Gas, Water and Waste Services",Sales of goods and services,17166
+88,2019,"Electricity, Gas, Water and Waste Services",Sales of goods and services,20718
+89,2017,"Electricity, Gas, Water and Waste Services",Sales of goods and services,17181
+90,2015,"Electricity, Gas, Water and Waste Services",Sales of goods and services,17610
+91,2014,"Electricity, Gas, Water and Waste Services",Sales of goods and services,16638
+92,2013,"Electricity, Gas, Water and Waste Services",Sales of goods and services,17659
+93,2018,"Electricity, Gas, Water and Waste Services",Sales of goods and services,18835
+94,2018,Employment and Other Administrative Services,Sales of goods and services,6856
+95,2014,Employment and Other Administrative Services,Sales of goods and services,4791
+96,2017,Employment and Other Administrative Services,Sales of goods and services,6319
+97,2013,Employment and Other Administrative Services,Sales of goods and services,5220
+98,2015,Employment and Other Administrative Services,Sales of goods and services,5134
+99,2019,Employment and Other Administrative Services,Sales of goods and services,7234
+100,2016,Employment and Other Administrative Services,Sales of goods and services,5621
+101,2014,Fertiliser and Pesticide Manufacturing,Sales of goods and services,1960
+102,2016,Fertiliser and Pesticide Manufacturing,Sales of goods and services,1758
+103,2015,Fertiliser and Pesticide Manufacturing,Sales of goods and services,1867
+104,2017,Fertiliser and Pesticide Manufacturing,Sales of goods and services,1690
+105,2015,Finance,Sales of goods and services,5499
+106,2016,Finance,Sales of goods and services,5710
+107,2013,Finance,Sales of goods and services,4637
+108,2018,Finance,Sales of goods and services,5155
+109,2014,Finance,Sales of goods and services,4975
+110,2019,Finance,Sales of goods and services,5500
+111,2017,Finance,Sales of goods and services,5601
+112,2015,Financial Asset Investing,Sales of goods and services,2458
+113,2013,Financial Asset Investing,Sales of goods and services,1715
+114,2014,Financial Asset Investing,Sales of goods and services,2060
+115,2017,Financial Asset Investing,Sales of goods and services,2618
+116,2016,Financial Asset Investing,Sales of goods and services,2820
+117,2019,Financial Asset Investing,Sales of goods and services,2424
+118,2018,Financial Asset Investing,Sales of goods and services,2143
+119,2017,Financial and Insurance Services,Sales of goods and services,19602
+120,2013,Financial and Insurance Services,Sales of goods and services,15553
+121,2019,Financial and Insurance Services,Sales of goods and services,22836
+122,2018,Financial and Insurance Services,Sales of goods and services,19656
+123,2015,Financial and Insurance Services,Sales of goods and services,18035
+124,2016,Financial and Insurance Services,Sales of goods and services,18695
+125,2014,Financial and Insurance Services,Sales of goods and services,16596
+126,2015,Forestry and Logging,Sales of goods and services,3861
+127,2018,Forestry and Logging,Sales of goods and services,5479
+128,2017,Forestry and Logging,Sales of goods and services,4671
+129,2019,Forestry and Logging,Sales of goods and services,6021
+130,2013,Forestry and Logging,Sales of goods and services,3445
+131,2016,Forestry and Logging,Sales of goods and services,4043
+132,2014,Forestry and Logging,Sales of goods and services,3924
+133,2018,Health and General Insurance,Sales of goods and services,6252
+134,2015,Health and General Insurance,Sales of goods and services,5637
+135,2013,Health and General Insurance,Sales of goods and services,5016
+136,2019,Health and General Insurance,Sales of goods and services,6593
+137,2017,Health and General Insurance,Sales of goods and services,5946
+138,2016,Health and General Insurance,Sales of goods and services,5582
+139,2014,Health and General Insurance,Sales of goods and services,5348
+140,2014,Heavy and Civil Engineering Construction,Sales of goods and services,9823
+141,2016,Heavy and Civil Engineering Construction,Sales of goods and services,10644
+142,2013,Heavy and Civil Engineering Construction,Sales of goods and services,9700
+143,2015,Heavy and Civil Engineering Construction,Sales of goods and services,10483
+144,2019,Heavy and Civil Engineering Construction,Sales of goods and services,12813
+145,2017,Heavy and Civil Engineering Construction,Sales of goods and services,11229
+146,2018,Heavy and Civil Engineering Construction,Sales of goods and services,12632
+147,2017,Information Media Services,Sales of goods and services,5213
+148,2013,Information Media Services,Sales of goods and services,4842
+149,2016,Information Media Services,Sales of goods and services,5136
+150,2014,Information Media Services,Sales of goods and services,4729
+151,2013,Information Media and Telecommunications,Sales of goods and services,13055
+152,2016,Information Media and Telecommunications,Sales of goods and services,13481
+153,2015,Information Media and Telecommunications,Sales of goods and services,13018
+154,2018,Information Media and Telecommunications,Sales of goods and services,13744
+155,2014,Information Media and Telecommunications,Sales of goods and services,13054
+156,2017,Information Media and Telecommunications,Sales of goods and services,13698
+157,2019,Information Media and Telecommunications,Sales of goods and services,13644
+158,2014,Insurance,Sales of goods and services,7494
+159,2017,Insurance,Sales of goods and services,8419
+160,2016,Insurance,Sales of goods and services,7984
+161,2018,Insurance,Sales of goods and services,8815
+162,2015,Insurance,Sales of goods and services,7969
+163,2019,Insurance,Sales of goods and services,11136
+164,2013,Insurance,Sales of goods and services,7028
+165,2014,Legal and Accounting Services,Sales of goods and services,5505
+166,2013,Legal and Accounting Services,Sales of goods and services,5275
+167,2016,Legal and Accounting Services,Sales of goods and services,5992
+168,2019,Legal and Accounting Services,Sales of goods and services,6874
+169,2018,Legal and Accounting Services,Sales of goods and services,6587
+170,2017,Legal and Accounting Services,Sales of goods and services,6484
+171,2015,Legal and Accounting Services,Sales of goods and services,5744
+179,2019,Mining,Sales of goods and services,5129
+180,2013,Mining,Sales of goods and services,6772
+181,2014,Mining,Sales of goods and services,6788
+182,2017,Mining,Sales of goods and services,4878
+183,2016,Mining,Sales of goods and services,5285
+184,2015,Mining,Sales of goods and services,6861
+185,2018,Mining,Sales of goods and services,5162
+186,2018,Non-Financial Asset Leasing,Sales of goods and services,1056
+187,2015,Non-Financial Asset Leasing,Sales of goods and services,804
+188,2017,Non-Financial Asset Leasing,Sales of goods and services,958
+189,2013,Non-Financial Asset Leasing,Sales of goods and services,985
+190,2016,Non-Financial Asset Leasing,Sales of goods and services,897
+191,2019,Non-Financial Asset Leasing,Sales of goods and services,1162
+192,2014,Non-Financial Asset Leasing,Sales of goods and services,682
+193,2013,Non-Residential Building Construction,Sales of goods and services,5144
+194,2015,Non-Residential Building Construction,Sales of goods and services,6588
+195,2018,Non-Residential Building Construction,Sales of goods and services,8704
+196,2016,Non-Residential Building Construction,Sales of goods and services,6998
+197,2019,Non-Residential Building Construction,Sales of goods and services,9473
+198,2017,Non-Residential Building Construction,Sales of goods and services,8128
+199,2014,Non-Residential Building Construction,Sales of goods and services,5700
+207,2015,Postal and Courier Pick Up and Delivery Services,Sales of goods and services,2156
+208,2014,Postal and Courier Pick Up and Delivery Services,Sales of goods and services,2199
+209,2013,Postal and Courier Pick Up and Delivery Services,Sales of goods and services,2141
+210,2019,Postal and Courier Pick Up and Delivery Services,Sales of goods and services,2405
+211,2018,Postal and Courier Pick Up and Delivery Services,Sales of goods and services,2287
+212,2017,"Postal, Courier, Transport Support, and Warehousing Services",Sales of goods and services,7564
+213,2018,"Postal, Courier, Transport Support, and Warehousing Services",Sales of goods and services,8180
+214,2019,"Postal, Courier, Transport Support, and Warehousing Services",Sales of goods and services,8725
+215,2015,"Postal, Courier, Transport Support, and Warehousing Services",Sales of goods and services,7040
+216,2013,"Postal, Courier, Transport Support, and Warehousing Services",Sales of goods and services,6212
+217,2016,"Postal, Courier, Transport Support, and Warehousing Services",Sales of goods and services,7324
+218,2014,"Postal, Courier, Transport Support, and Warehousing Services",Sales of goods and services,6858
+219,2019,"Professional, Scientific and Technical Services",Sales of goods and services,39887
+220,2013,"Professional, Scientific and Technical Services",Sales of goods and services,27056
+221,2014,"Professional, Scientific and Technical Services",Sales of goods and services,28788
+222,2015,"Professional, Scientific and Technical Services",Sales of goods and services,29959
+223,2017,"Professional, Scientific and Technical Services",Sales of goods and services,34288
+224,2016,"Professional, Scientific and Technical Services",Sales of goods and services,31679
+225,2018,"Professional, Scientific and Technical Services",Sales of goods and services,36629
+226,2018,"Professional, Scientific, Technical, Administrative and Support Services",Sales of goods and services,48311
+227,2013,"Professional, Scientific, Technical, Administrative and Support Services",Sales of goods and services,35492
+228,2015,"Professional, Scientific, Technical, Administrative and Support Services",Sales of goods and services,38719
+229,2017,"Professional, Scientific, Technical, Administrative and Support Services",Sales of goods and services,45180
+230,2014,"Professional, Scientific, Technical, Administrative and Support Services",Sales of goods and services,36928
+231,2016,"Professional, Scientific, Technical, Administrative and Support Services",Sales of goods and services,41357
+232,2019,"Professional, Scientific, Technical, Administrative and Support Services",Sales of goods and services,52476
+233,2016,Property Operators and Real Estate Services,Sales of goods and services,19564
+234,2014,Property Operators and Real Estate Services,Sales of goods and services,16751
+235,2018,Property Operators and Real Estate Services,Sales of goods and services,21433
+236,2017,Property Operators and Real Estate Services,Sales of goods and services,21600
+237,2015,Property Operators and Real Estate Services,Sales of goods and services,18118
+238,2013,Property Operators and Real Estate Services,Sales of goods and services,15386
+239,2019,Property Operators and Real Estate Services,Sales of goods and services,22732
+240,2014,"Public Order, Safety and Regulatory Services",Sales of goods and services,1029
+241,2017,"Public Order, Safety and Regulatory Services",Sales of goods and services,1327
+242,2018,"Public Order, Safety and Regulatory Services",Sales of goods and services,1434
+243,2016,"Public Order, Safety and Regulatory Services",Sales of goods and services,1248
+244,2013,"Public Order, Safety and Regulatory Services",Sales of goods and services,1013
+245,2015,"Public Order, Safety and Regulatory Services",Sales of goods and services,1211
+246,2019,"Public Order, Safety and Regulatory Services",Sales of goods and services,1514
+247,2013,"Public order, safety and regulatory services",Sales of goods and services,1013
+248,2018,"Rail, Water, Air and Other Transport",Sales of goods and services,7984
+249,2013,"Rail, Water, Air and Other Transport",Sales of goods and services,6786
+250,2019,"Rail, Water, Air and Other Transport",Sales of goods and services,8683
+251,2017,"Rail, Water, Air and Other Transport",Sales of goods and services,7893
+252,2016,"Rail, Water, Air and Other Transport",Sales of goods and services,7813
+253,2015,"Rail, Water, Air and Other Transport",Sales of goods and services,7445
+254,2014,"Rail, Water, Air and Other Transport",Sales of goods and services,6953
+255,2018,Real Estate Services,Sales of goods and services,4433
+256,2015,Real Estate Services,Sales of goods and services,3619
+257,2014,Real Estate Services,Sales of goods and services,3236
+258,2013,Real Estate Services,Sales of goods and services,2970
+259,2016,Real Estate Services,Sales of goods and services,4431
+260,2019,Real Estate Services,Sales of goods and services,4721
+261,2017,Real Estate Services,Sales of goods and services,4799
+262,2014,Rental and Hiring Services (except Real Estate),Sales of goods and services,3983
+263,2017,Rental and Hiring Services (except Real Estate),Sales of goods and services,5335
+264,2018,Rental and Hiring Services (except Real Estate),Sales of goods and services,5877
+265,2019,Rental and Hiring Services (except Real Estate),Sales of goods and services,6483
+266,2013,Rental and Hiring Services (except Real Estate),Sales of goods and services,3879
+267,2015,Rental and Hiring Services (except Real Estate),Sales of goods and services,4379
+268,2016,Rental and Hiring Services (except Real Estate),Sales of goods and services,4976
+269,2016,"Rental, Hiring and Real Estate Services",Sales of goods and services,24540
+270,2019,"Rental, Hiring and Real Estate Services",Sales of goods and services,29215
+271,2013,"Rental, Hiring and Real Estate Services",Sales of goods and services,19265
+272,2015,"Rental, Hiring and Real Estate Services",Sales of goods and services,22497
+273,2017,"Rental, Hiring and Real Estate Services",Sales of goods and services,26936
+274,2014,"Rental, Hiring and Real Estate Services",Sales of goods and services,20734
+275,2018,"Rental, Hiring and Real Estate Services",Sales of goods and services,27311
+276,2017,Residential Building Construction,Sales of goods and services,14500
+277,2018,Residential Building Construction,Sales of goods and services,15765
+278,2015,Residential Building Construction,Sales of goods and services,10724
+279,2013,Residential Building Construction,Sales of goods and services,7278
+280,2016,Residential Building Construction,Sales of goods and services,12401
+281,2014,Residential Building Construction,Sales of goods and services,9180
+282,2019,Residential Building Construction,Sales of goods and services,17323
+283,2015,Road Transport,Sales of goods and services,7860
+284,2013,Road Transport,Sales of goods and services,7057
+285,2019,Road Transport,Sales of goods and services,9472
+286,2017,Road Transport,Sales of goods and services,8046
+287,2016,Road Transport,Sales of goods and services,7807
+288,2014,Road Transport,Sales of goods and services,7292
+289,2018,Road Transport,Sales of goods and services,8819
+290,2019,"Scientific, Architectural and Engineering Services",Sales of goods and services,10235
+291,2016,"Scientific, Architectural and Engineering Services",Sales of goods and services,8417
+292,2015,"Scientific, Architectural and Engineering Services",Sales of goods and services,7654
+293,2013,"Scientific, Architectural and Engineering Services",Sales of goods and services,6829
+294,2018,"Scientific, Architectural and Engineering Services",Sales of goods and services,9535
+295,2017,"Scientific, Architectural and Engineering Services",Sales of goods and services,8742
+296,2014,"Scientific, Architectural and Engineering Services",Sales of goods and services,7391
+297,2014,"Telecommunications, Internet and Library Services",Sales of goods and services,8325
+298,2013,"Telecommunications, Internet and Library Services",Sales of goods and services,8212
+299,2017,"Telecommunications, Internet and Library Services",Sales of goods and services,8486
+300,2016,"Telecommunications, Internet and Library Services",Sales of goods and services,8345
+301,2019,Transport Support Services,Sales of goods and services,5158
+302,2014,Transport Support Services,Sales of goods and services,3774
+303,2017,Transport Support Services,Sales of goods and services,4408
+304,2013,Transport Support Services,Sales of goods and services,3236
+305,2015,Transport Support Services,Sales of goods and services,3995
+306,2018,Transport Support Services,Sales of goods and services,4815
+307,2016,Transport Support Services,Sales of goods and services,4159
+308,2019,"Transport, Postal and Warehousing",Sales of goods and services,26879
+309,2017,"Transport, Postal and Warehousing",Sales of goods and services,23502
+310,2016,"Transport, Postal and Warehousing",Sales of goods and services,22945
+311,2014,"Transport, Postal and Warehousing",Sales of goods and services,21104
+312,2013,"Transport, Postal and Warehousing",Sales of goods and services,20054
+313,2015,"Transport, Postal and Warehousing",Sales of goods and services,22345
+314,2018,"Transport, Postal and Warehousing",Sales of goods and services,24983
+315,2017,Travel Agency and Tour Arrangement Services,Sales of goods and services,931
+316,2013,Travel Agency and Tour Arrangement Services,Sales of goods and services,684
+317,2018,Travel Agency and Tour Arrangement Services,Sales of goods and services,1030
+318,2016,Travel Agency and Tour Arrangement Services,Sales of goods and services,827
+319,2015,Travel Agency and Tour Arrangement Services,Sales of goods and services,747
+320,2019,Travel Agency and Tour Arrangement Services,Sales of goods and services,1142
+321,2014,Travel Agency and Tour Arrangement Services,Sales of goods and services,721
+322,2013,Veterinary and Other Professional Services,Sales of goods and services,1161
+323,2016,Veterinary and Other Professional Services,Sales of goods and services,1325
+324,2014,Veterinary and Other Professional Services,Sales of goods and services,1246
+325,2018,Veterinary and Other Professional Services,Sales of goods and services,1547
+326,2017,Veterinary and Other Professional Services,Sales of goods and services,1416
+327,2015,Veterinary and Other Professional Services,Sales of goods and services,1354
+328,2019,Veterinary and Other Professional Services,Sales of goods and services,1649
+329,2019,Warehousing and Storage Services,Sales of goods and services,1161
+330,2014,Warehousing and Storage Services,Sales of goods and services,885
+331,2013,Warehousing and Storage Services,Sales of goods and services,835
+332,2018,Warehousing and Storage Services,Sales of goods and services,1078
+333,2015,Warehousing and Storage Services,Sales of goods and services,889
+334,2013,"Water, Sewerage, Drainage and Waste Services",Sales of goods and services,1807
+335,2018,"Water, Sewerage, Drainage and Waste Services",Sales of goods and services,2501
+336,2016,"Water, Sewerage, Drainage and Waste Services",Sales of goods and services,2208
+337,2017,"Water, Sewerage, Drainage and Waste Services",Sales of goods and services,2356
+338,2019,"Water, Sewerage, Drainage and Waste Services",Sales of goods and services,2719
+339,2014,"Water, Sewerage, Drainage and Waste Services",Sales of goods and services,1904
