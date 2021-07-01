@@ -8,7 +8,7 @@ This is a data analysis project for the following hypothetical scenario:
 ## Method
 New Zealand's 2019 Annual Enterprise Survey (a CSV file) was used as the data for this project. It contains industry performance information for the New Zealand's businesses over the 2013-2019 financial years. The 2019 Annual Enterprise Survey can be found [here](https://www.stats.govt.nz/information-releases/annual-enterprise-survey-2019-financial-year-provisional).
 
-The data was cleaned and formatted using Pandas in a Jupyter Notebook. Some columns were reformatted and redundant columns were removed. After parsing and analysing the data, some industries exhibited abnormally high growth rates, and were subsequently removed.
+The data was cleaned and formatted using Pandas in a Jupyter Notebook. Some columns were reformatted and redundant columns were removed. After parsing and analysing the data, some industries exhibited abnormally high growth rates, and were subsequently removed. The Jupyter Notebook can be accessed in the file "NZIndustries.ipynb", and a snapshot of it is available as "Jupyter-Notebook-Snapshot.png", in case difficulties running the Notebook are experienced.
 
 Filtered data was exported as CSV files, which were then used for visualisations in Tableau, which can be accessed [here](https://public.tableau.com/app/profile/jared7852/viz/BoostCoEntersNewZealand/SalesRevenueofAttractiveNewZealandIndustries). The Tableau Viz contains line charts of the growth rates of the five most attractive startup industries in New Zealand. The data manipulations behind these charts can be found in the Jupyter Notebook.
 
